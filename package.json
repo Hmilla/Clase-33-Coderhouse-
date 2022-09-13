@@ -1,0 +1,24 @@
+{
+  "name": "clase-33-coderhouse-",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Hmilla/Clase-33-Coderhouse-.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Hmilla/Clase-33-Coderhouse-/issues"
+  },
+  "homepage": "https://github.com/Hmilla/Clase-33-Coderhouse-#readme",
+  "dependencies": {
+    "express": "^4.18.1"
+  }
+}
